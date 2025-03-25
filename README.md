@@ -11,4 +11,4 @@
 - adjusting the playback volume
 - that's (for now) it:)
 
-## The current version of the application is shown below
+## The current versions of the player are listed on the side in the panel
