@@ -1,6 +1,8 @@
 # OpenPlayer
 ## I present to you my first Python application. Open Player is an application created as a replacement for the built-in Windows media player
 
+## We switched to the icon pack from Google
+
 >[!CAUTION]
 **This version of the application is still being tested and various bugs and bugs are being searched for in it. Use this app at your own risk**
 
