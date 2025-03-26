@@ -10,5 +10,3 @@
 - track pause
 - adjusting the playback volume
 - that's (for now) it:)
-
-## The current versions of the player are listed on the side in the panel
