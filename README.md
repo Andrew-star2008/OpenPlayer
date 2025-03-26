@@ -6,6 +6,7 @@
 
 # Player Functions:
 - selecting a track file (marked with a document icon)
+- selecting a folder where all tracks are arranged for alternate playback (indicated by the folder icon)
 - track start
 - track pause
 - adjusting the playback volume
