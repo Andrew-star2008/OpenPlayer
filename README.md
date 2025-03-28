@@ -23,3 +23,4 @@ pip install -r requirements.txt
 - switch tracks using the keyboard. That is: F12 (FN + F12) next track, F11 (FN + F11) previous.
 - adjusting the playback volume.
 
+## If you find any errors that I haven't found, [```write to me.```](https://t.me/Andrew_star2008)
