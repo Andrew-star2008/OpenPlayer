@@ -24,3 +24,6 @@ pip install -r requirements.txt
 - adjusting the playback volume.
 
 ## If you find any errors that I haven't found, [```write to me.```](https://t.me/Andrew_star2008)
+
+## Developer`s
+[<img alt="Andrew_star2008" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/149420042?s=400&u=f920f480e0839f37716eb36cd15ef56f8a23d9ef&v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Andrew_star2008)
