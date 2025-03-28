@@ -11,7 +11,7 @@
 pip install -r requirements.txt
 ```
 
-**In all versions except those above v0.2.2 (v0.2.2 inclusive), I forgot to add the file **`requirements.txt`** so please download it yourself, find it in the OpenPlayer folder and run the above command**
+**In all versions except v0.2.2 (including it too), I forgot to add the file **`requirements.txt`**, so please download it yourself from the source code and add it to the OpenPlayer folder so that the above command works properly.**
 
 **If you don't have Python installed, install it at [```this link```](https://www.python.org/downloads/)**
 
