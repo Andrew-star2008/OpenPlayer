@@ -3,25 +3,63 @@
 
 ## We switched to the icon pack from Google. Thanks to Google for this.
 
->[!CAUTION]
-**This version of the application is still being tested and various bugs and bugs are being searched for in it. Use this app at your own risk.**
-
-**Also, I forgot to mention, when entering the folder with OpenPlayer, open the termenal folder, and enter this command into it.**
-```cmd
-pip install -r requirements.txt
-```
-
-**In all versions except v0.2.2 (including it too), I forgot to add the file **`requirements.txt`**, so please download it yourself from the source code and add it to the OpenPlayer folder so that the above command works properly.**
-
 **If you don't have Python installed, install it at [```this link```](https://www.python.org/downloads/)**
 
 # Player Functions:
-- selecting a track file (marked with a document icon).
-- selecting a folder where all tracks are arranged for alternate playback (indicated by the folder icon).
-- track start.
-- track pause.
-- switch tracks using the keyboard. That is: F12 (FN + F12) next track, F11 (FN + F11) previous.
-- adjusting the playback volume.
+## 🎧 Main functions and controls
+- Opening files/folders
+### 📂 Open the file (MP3)
+How to use
+- Click the button with the "Open" icon (far left)
+- Select an MP3 file through the dialog box
+- The player will start playback automatically
+
+### 📁 Open the MP3 folder
+How to use
+- Click the button with the Folder icon (second from the left)
+- Select a folder with MP3 files
+- All tracks will be added to the playlist, and the first one will start playing.
+
+### Playback control
+▶ Play/Pause
+Methods:
+- The button with the "▶" icon (third from the left)
+- When pressed for the first time: playback starts
+- When repeated: continues from the moment of pause
+
+### ⏸ Pause
+Methods:
+- The button with the "⏸" icon (far right)
+
+### ↪ Switching tracks
+- Next track: The "→" button
+- Previous track: The "←" button
+
+## Working with a playlist
+## Selecting a track from the list
+- Click on the track name in the playlist
+- The track will start playing immediately after selection
+
+## 🖍 Illumination of the current track
+- The active track is highlighted with a light gray background
+- Updated automatically when switching
+
+## Volume control
+### 🔊 Adjustment
+### Methods:
+
+### Drag the volume slider (0% on the right, 100% on the left)
+
+### Keyboard shortcuts:
+- The current level is displayed above the slider (for example: "Volume: 70%")
+
+## Automatic functions:
+## Auto-skip to the next track
+- Triggered at the end of the current track
+- Cyclic transition: after the last track, the first one plays
+
+## Playlist update
+- Occurs automatically when opening a file/folder
 
 ## If you find any errors that I haven't found, [```write to me.```](https://t.me/Andrew_star2008)
 
