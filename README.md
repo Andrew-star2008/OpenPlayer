@@ -1,4 +1,7 @@
 # OpenPlayer
+
+## Unfortunately, the OpenPlayer project is closed indefinitely, thank you for being with us, even though you weren't there.....
+
 ## I present to you my first application. Open Player is an application created as a replacement for the built-in Windows media player.
 
 ## We switched to the icon pack from Google. Thanks to Google for this.
